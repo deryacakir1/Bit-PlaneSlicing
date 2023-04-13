@@ -1,2 +1,2 @@
 # Bit-PlaneSlicing
- Image Processing
+Computer Vision and Imaging Techniques
