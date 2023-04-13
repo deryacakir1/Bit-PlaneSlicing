@@ -1,6 +1,3 @@
-#BILGISAYARLA GORME VE GORUNTULEME TEKNIKLERI
-#7.HAFTA
-
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
